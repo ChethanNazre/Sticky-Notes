@@ -1,4 +1,4 @@
-# Project 2/10 - Sticky-Notes 
+# Project 2/5 - Sticky-Notes 
 
 Sticky Notes is a simple note-making web app built using HTML, CSS, and Vanilla JavaScript. This application allows users to create, edit, and delete notes easily. It provides a user-friendly interface with a responsive design, making it accessible across different devices.
 
